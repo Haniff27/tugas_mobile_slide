@@ -1,3 +1,4 @@
 # carousel_hero
 
-![](https://github.com/Richa0305/images/blob/main/carousel%20copy.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/101883268/162373567-d8188cb7-1fd1-4833-ad96-e9dd36267c7f.png)
+
